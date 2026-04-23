@@ -1,0 +1,27 @@
+﻿# Build
+bin/
+obj/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+coverage/
+
+# Test results
+TestResults/
+
+# Local config
+appsettings.Development.json
